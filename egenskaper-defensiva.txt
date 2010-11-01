@@ -3,3 +3,5 @@ Undvika = Snabbhet/2
 Mentalt försvar = Vilja/2
 
 Avrunda uppåt.
+
+REF: egenskaper

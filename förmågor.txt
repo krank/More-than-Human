@@ -5,7 +5,3 @@ De flesta förmågor:
  
 Specialförmågor:
 Markeras som sådana, och har egna specialregler.
-
-REF: skalan
-REF: tillägg-*
-REF: restriktioner-*
