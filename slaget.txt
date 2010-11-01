@@ -1,0 +1,5 @@
+Rulla två tärningar mot ett målvärde.
+Varje tärning som kommer under målvärdet lyckas.
+Slaget är lika lyckat eller misslyckat som tärningens värde.
+Högt lyckat är bättre än lågt lyckat.
+Högt misslyckat är mindre åt helvete än lågt misslyckat.

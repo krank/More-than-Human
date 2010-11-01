@@ -1,0 +1,30 @@
+Den vanliga skalan går från 1-12
+Superskalan går från *1-*12.
+
+Köps för poäng eller *poäng.
+
+
+
+[V]ärde / Poäng från [N]ästa / [T]otalt
+
+V:   N:  T:
+3    1   1p
+5    1   2p
+7    1   3p
+8    1   4p
+9    1   5p
+10   1   6p
+11   2   8p
+12   2   10p
+*3   *1  *1p
+*5   *1  *2p
+*7   *1  *3p
+*8   *1  *4p
+*9   *1  *5p
+*10  *1  *6p
+*11  *2  *8p
+*12  *2  *10p
+
+
+
+*1 = 20p
