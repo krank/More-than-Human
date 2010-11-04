@@ -1,0 +1,15 @@
+Förmågan fungerar så länge inte [hinder]
+
+Omfattning:
+En förmåga: *1p
+Alla förmågor: *2p
+Allt: *4p
+
+Frekvens:
+Vanliga: *2p
+Ovanliga: *1p
+
+Påverkan:
+Störande (Svårighetsgrad 2) *1p
+Hindrande (Svårighetsgrad 5) *2p
+Nollställande (Svårighetsgrad ∞) *4p

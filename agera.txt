@@ -1,0 +1,7 @@
+Slå ett Slag.
+Målvärdet är relevant Egenskaps värde.
+
+Hur myckat man misslyckades/lyckade avgör hur väl man lyckades/misslyckades.
+
+REF: slaget
+REF: egenskaper

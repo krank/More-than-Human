@@ -3,3 +3,12 @@ Varje tärning som kommer under målvärdet lyckas.
 Slaget är lika lyckat eller misslyckat som tärningens värde.
 Högt lyckat är bättre än lågt lyckat.
 Högt misslyckat är mindre åt helvete än lågt misslyckat.
+
+Slag måste också komma över eventuell svårighetsgrad.
+
+Om målvärdet är på superskalan:
+ - Lyckat slag är *Lyckat.
+ - Misslyckat slag är Lyckat.
+
+REF: svårighetsgrader
+REF: skalan

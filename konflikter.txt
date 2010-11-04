@@ -1,0 +1,4 @@
+De inblandade slår varsitt slag mot lämplig Egenskap eller annat Målvärde.
+Bäst slag vinner.
+Lyckat vinner över Misslyckat.
+Högt vinner över lågt.
