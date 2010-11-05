@@ -1,7 +1,0 @@
-Påverka flera mål samtidigt (=med en "handling")
-
-*2 	2 mål
-*4 	3 mål
-*6 	4 mål
-*8 	5 mål
-*10 	6 mål

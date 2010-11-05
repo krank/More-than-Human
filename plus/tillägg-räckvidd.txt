@@ -1,6 +1,0 @@
-Flytta Origo för förmågan.
-
-Beröring 	*1p
-Utanför närstridsavstånd 	*2p
-Kastavstånd 	*3p
-Synfält 	*4p 
