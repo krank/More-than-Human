@@ -1,0 +1,11 @@
+De flesta förmågor:
+ - 1 Grundförmåga (sikta; aktivera)
+ - 0+ Tillägg (saker man vill kunna göra eller sätt man vill kunna göra det på)
+ - 0+ Restriktioner (försämrar eller skapar oönskade effekter)
+ 
+Specialförmågor:
+Markeras som sådana, och har egna specialregler.
+
+REF: skalan
+REF: tillägg-*
+REF: restriktioner-*

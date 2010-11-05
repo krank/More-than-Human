@@ -1,0 +1,19 @@
+Slå ett vanligt förmågeslag för att aktivera skyddet.
+
+Vanligt:
+Halva värdet av förmågans +skydd adderas till tålighetsnivåerna.
+
+PSI:
+Halva värdet av förmågans +skyddPSI adderas till Mentalt försvar och Skydd.
+
+
+Gäller personer inom förmågans +radie, annars enbart personen som har förmågan.
+
+
+REF: förmågor
+REF: förmågor-använda
+REF: plus\skydd
+REF: plus\skyddpsi
+REF: strid
+REF: skador
+REF: slaget

@@ -1,0 +1,15 @@
+Slå ett vanligt förmågeslag.
+
+Slå sedan ett slag med förmågans +Skada som målvärde.
+Det slaget görs med så många tärningar som lyckades i förmågeslaget.
+
+Resultatet är skadevärdet.
+
+
+REF: förmågor
+REF: förmågor-använda
+REF: plus\skada
+REF: plus\skadapsi
+REF: strid
+REF: skador
+REF: slaget
