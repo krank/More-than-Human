@@ -1,0 +1,8 @@
+Varje rollperson får agera en gång per runda.
+En runda är den tid det tar för alla att göra något.
+Alla agerar mer eller mindre samtidigt.
+
+Reaktiv deklarering: En deltagare deklarerar sin handling. Nästa får då deklarera att den vill agera samtidigt som eller efter den första.
+
+Har man högre Snabbhet än den man deklarar efter, så kan man lägga sig före.
+

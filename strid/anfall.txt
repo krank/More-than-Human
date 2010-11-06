@@ -1,0 +1,28 @@
+Anfallsslag: Slag mot lämplig egenskap.
+Målet får försvara sig.
+Slå sedan ett skadeslag: Slag mot vapnets skada.
+Skadeslaget sker med så många tärningar (noll, en eller två) som lyckades i anfallsslaget.
+
+Brottningsanfall (slag, spark, skalla, strypa, fälla)
+på brottningsavstånd
+mot Närstrid
+
+Närstridsanfall (med svärd, yxa etc)
+på närstridsavstånd
+mot Närstrid
+
+Avståndsanfall (med skjutvapen)
+Vilket avstånd som helst
+Bara på kastavstånd eller kortare får man fördel av automateld
+mot Närstrid om avståndet är brottning/närstrid
+mot Avstånd, om avståndet är längre.
+
+Avståndsanfall (med kastvapen)
+Innanför kastavstånd
+mot Avstånd
+
+REF: försvar
+REF: egenskaper
+REF: förflyttning
+REF: turordning
+REF: skador
