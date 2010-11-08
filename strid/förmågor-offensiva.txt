@@ -3,7 +3,7 @@ Slå ett vanligt förmågeslag.
 Slå sedan ett slag med förmågans +Skada som målvärde.
 Det slaget görs med så många tärningar som lyckades i förmågeslaget.
 
-Resultatet är skadevärdet.
+Resultatet är skadan.
 
 
 REF: förmågor

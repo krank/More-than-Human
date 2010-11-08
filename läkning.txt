@@ -1,0 +1,9 @@
+Läkeslag sker mot kondition. Man slår bara med en tärning.
+
+Skador betas av i ordning, allvarligast först.
+
+Utslagen: slå 1 slag per dygn. Lyckat slag innebär att den utslagna skadan blir en allvarlig, om det finns plats för en sådan.
+
+Allvarlig: slå 1 slag per vecka i vila. Lyckat slag tar bort skadan.
+
+Kännbar: slå 1 slag per dygn i bila. Lyckat slag tar bort skadan.
