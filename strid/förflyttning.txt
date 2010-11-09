@@ -1,0 +1,10 @@
+Avstånd: Brottning, närstrid, kastavstånd.
+
+1 förflyttning för att byta avstånd till sin motståndare. 1 handling för brottning till närstrid, en till för närstrid till kastavstånd.
+
+
+Avståndsstrid: Dela upp stridsplatsen i områden, räkna förflyttning mellan dessa som 1 förflyttning.
+
+
+
+Förflyttning kan göras samtidigt som andra handlingar, men dessa sker då med 1 tärning mindre.
