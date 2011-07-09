@@ -1,0 +1,23 @@
+Undvika
+Inte en handling i avståndsstrid
+Är en handling i närstrid och brottning
+Värdet i Undvika adderas till anfallarens svårighetsgrad.
+
+Försvar
+Inte en handling i närstrid.
+Kan endast användas i avståndsstrid om man har *försvar. Då försvinner stjärnan. (*10 = 10)
+Värdet i Försvar adderas till anfallarens svårighetsgrad.
+
+Mentalt försvar
+Är inte en handling.
+Värdet i Mentalt anfall adderas till anfallarens svårighetsgrad vid mentala anfall.
+
+Aktivera defensiv förmåga
+Räknas som en handling.
+Följer reglerna för respektive tillägg.
+
+
+REF: skalan
+REF: förmågor-defensiva
+REF: anfall
+REF: förflyttning

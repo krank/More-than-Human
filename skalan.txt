@@ -5,9 +5,9 @@ Köps för poäng eller *poäng.
 
 
 
-[V]ärde / Poäng från [N]ästa / [T]otalt
+[V]ärde / Poäng från [F]öregående / [T]otalt
 
-V:   N:  T:
+V:   F:  T:
 3    1   1p
 5    1   2p
 7    1   3p

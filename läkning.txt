@@ -7,3 +7,8 @@ Utslagen: slå 1 slag per dygn. Lyckat slag innebär att den utslagna skadan bli
 Allvarlig: slå 1 slag per vecka i vila. Lyckat slag tar bort skadan.
 
 Kännbar: slå 1 slag per dygn i bila. Lyckat slag tar bort skadan.
+
+
+REF: strid\skador
+REF: egenskaper
+REF: slaget

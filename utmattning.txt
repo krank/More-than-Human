@@ -1,0 +1,6 @@
+Ansträngd
+Trött: +2 på svårighetsgraden på alla slag
+Utmattad: +5 på svårighetsgraden på alla slag
+Överbelastad: personen är utslagen
+
+När man får ansträngning anges mängden i nivåer. Ansträngd är första nivån. Två till efter den är Utmattad.

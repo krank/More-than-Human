@@ -7,5 +7,5 @@ Specialförmågor:
 Markeras som sådana, och har egna specialregler.
 
 REF: skalan
-REF: tillägg-*
-REF: restriktioner-*
+REF: plus\*
+REF: minus\*

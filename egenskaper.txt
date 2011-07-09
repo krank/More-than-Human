@@ -13,6 +13,5 @@ Obemärkt
 
 Köps enligt skalan.
 
-REF: egenskaper-bakgrund
-REF: egenskaper-defensiva
-REF: egenskaper-tålighet
+REF: egenskaper\*
+REF: skalan

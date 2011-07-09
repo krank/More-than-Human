@@ -4,6 +4,10 @@ Målvärdet är grundförmågans värde.
 För improviserade effekter; låt resultatet avgöra hur bra det går.
 Man kan dock inte använda plus man inte köpt.
 
+Om båda tärningarna i anfallsslaget visar resultat under 5, så får man 1 nivå utmattning.
+
+
 
 REF: slaget
 REF: förmågor
+REF: utmattning

@@ -1,15 +1,15 @@
 Slå ett vanligt förmågeslag.
 
-Slå sedan ett slag med förmågans +Skada som målvärde.
+Slå sedan ett slag med förmågans +Skada eller +Skada(PSI) som målvärde.
 Det slaget görs med så många tärningar som lyckades i förmågeslaget.
 
-Resultatet är skadan.
+Effekterna beror på om det är psi-anfall eller vanligt anfall.
 
 
+REF: slaget
 REF: förmågor
 REF: förmågor-använda
 REF: plus\skada
 REF: plus\skadapsi
-REF: strid
-REF: skador
-REF: slaget
+REF: strid\skador
+REF: strid\skadorpsi

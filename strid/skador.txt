@@ -2,11 +2,9 @@ Ett slag görs mot egenskap eller mot vapens skadevärde. Detta är skadeslaget.
 
 Ett skadeslags lyckade resultat jämförs med målets tålighetsnivåer. Den högsta tålighetsnivån skadeslagets resultat kommer över avgör vilken skada som åsamkas.
 
-
 Får man fyra kännbara skador, så förvandlas den femte till en allvarlig.
 
 För man två allvarliga skador, som inte börjat som kännbara, så förvandlas den femte till en utslagen.
-
 
 Frivillig regel: en skada med ett värde som är 2 högre än målets utslagennivå dödar målet. Det gör också en skada som uppnår eller överstiger utslagennivån, och som träffar ett mål som redan är utslaget.
 

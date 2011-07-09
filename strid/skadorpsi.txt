@@ -1,0 +1,11 @@
+Ett slag görs mot egenskap eller mot vapens skadevärde. Detta är PSI-skadeslaget.
+
+Ett PSI-skadeslags lyckade resultat jämförs med målets mentala försvar och egenskapen Vilja.
+
+Om PSI-skadeslagets resultat är högre än Mentalt försvar, så får man 1 nivå utmattning.
+
+Om PSI-skadeslagets resultat är högre än Vilja, så får man 2 nivåer utmattning.
+
+
+REF: utmattning
+REF: slaget
